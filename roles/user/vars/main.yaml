@@ -1,2 +1,2 @@
-REDIS_HOST: redis-{{ env }}.varshin.xyz
-MONGODB_HOST: mongodb-{{ env }}.varshin.xyz
+REDIS_HOST: redis.backend-{{ env }}.varshin.xyz
+MONGODB_HOST: mongodb.backend-{{ env }}.varshin.xyz

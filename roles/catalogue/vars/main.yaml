@@ -1,1 +1,1 @@
-MONGODB_HOST: "mongodb-{{ env }}.varshin.xyz"
+MONGODB_HOST: "mongodb.backend-{{ env }}.varshin.xyz"
