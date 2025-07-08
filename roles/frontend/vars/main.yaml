@@ -1,5 +1,5 @@
-CATALOGUE_HOST: catalogue.varshin.xyz
-USER_HOST: user.daws84s.varshin.xyz
-CART_HOST: cart.daws84s.varshin.xyz
-SHIPPING_HOST: shipping.varshin.xyz
-PAYMENT_HOST: payment.varshin.xyz
+CATALOGUE_HOST: catalogue.backend-dev.varshin.xyz
+USER_HOST: user.backend-dev.varshin.xyz
+CART_HOST: cart.backend-dev.varshin.xyz
+SHIPPING_HOST: shipping.backend-dev.varshin.xyz
+PAYMENT_HOST: payment.backend-dev.varshin.xyz

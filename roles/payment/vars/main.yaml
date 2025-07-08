@@ -1,5 +1,5 @@
 CART_HOST: cart.backend-{{ env }}.varshin.xyz
 USER_HOST: user.backend-{{ env }}.varshin.xyz
-RABBITMQ_HOST: rabbitmq.backend-{{ env }}.varshin.xyz
+RABBITMQ_HOST: rabbitmq-{{ env }}.varshin.xyz
 RABBITMQ_USER: roboshop
 RABBITMQ_PASSWORD: roboshop123

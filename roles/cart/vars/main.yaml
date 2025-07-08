@@ -1,2 +1,2 @@
 CATALOGUE_HOST: catalogue.backend-{{ env }}.varshin.xyz
-REDIS_HOST: redis.backend-{{ env }}.varshin.xyz
+REDIS_HOST: redis-{{ env }}.varshin.xyz
